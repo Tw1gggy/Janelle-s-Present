@@ -8,11 +8,11 @@ let peakDetect;
 let ellipses = [];
 
 function preload() {
+  songs.push(loadSound("I See the Light.mp3"));
   songs.push(loadSound("311-Amber.mp3"));
   songs.push(loadSound("Daughtry-Home.mp3"));
   songs.push(loadSound("Taylor Swift-Love Story.mp3"));
   songs.push(loadSound("Taylor Swift-Lover.mp3"));
-  // songs.push(loadSound(""));
   // songs.push(loadSound(""))
   // songs.push(loadSound(""))
   // songs.push(loadSound(""));

@@ -9,8 +9,8 @@
 html, body {
   margin: 0;
   padding: 0;
-  color: #aec5d6e3;
-  background-color: RGB(44, 105, 103);
+  color: RGB(255, 209, 153);
+  background-color: RGB(206, 169, 214);
 }
 
 button{
